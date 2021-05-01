@@ -11,4 +11,8 @@
 
 [Journal 1](https://github.com/UsabilityEngineering/ux-portfolio-kkstauble/blob/master/journal1.md)
 
+
+### Journal #2: Making Art Using Procreate
+#### Kailey Stauble, April 30, 2021
+
 [Journal 2](https://github.com/UsabilityEngineering/ux-portfolio-kkstauble/blob/master/journal2.md)
